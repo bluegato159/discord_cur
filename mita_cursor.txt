@@ -4,7 +4,7 @@
 .container_fc4f04,
 [role=menu],
 .titleBar_a934d8 {
-  cursor: url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/assets/cursors/Hack_Normal_Select_v2.cur"), default !important;
+  cursor: url("https://accrazed.github.io/bluegato159/mita_cursor_assets/Normal.ani"), default !important;
 }
 
 .timestamp_f9f2ca,
