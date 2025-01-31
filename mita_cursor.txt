@@ -4,7 +4,7 @@
 .container_fc4f04,
 [role=menu],
 .titleBar_a934d8 {
-  cursor: url("https://accrazed.github.io/bluegato159/mita_cursor_assets/Normal.ani"), default !important;
+  cursor: url("https://bluegato159.github.io/bluegato159/mita_cursor_assets/Normal.ani"), default !important;
 }
 
 .timestamp_f9f2ca,
